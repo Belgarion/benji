@@ -55,7 +55,7 @@ Topic :: System :: Archiving :: Backup
         'setproctitle>=1.1.8,<2',
         'python-dateutil>=2.6.0,<3',
         'alembic>=1.10.2,<2',
-        'ruamel.yaml>0.16,<0.17',
+        'ruamel.yaml>0.16,<0.18',
         'psycopg2-binary>=2.7.4,<3',
         'argcomplete>=1.9.4,<2',
         'sparsebitfield>=0.2.5,<1',
